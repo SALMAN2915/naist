@@ -1,4 +1,4 @@
-:root{
+/* :root{
     --navy:#050b1f;
     --navy2:#4875ff;
     --blue:#2f5bff;
@@ -438,4 +438,4 @@ background: #4f55c3;
 #founder::before,#team::before,#blog::before{content:"";position:absolute;left:0;right:0;top:0;height:14vh;background:linear-gradient(to bottom,var(--navy2),transparent);pointer-events:none;z-index:2}
 #reviews::before,#faq::before{content:"";position:absolute;left:0;right:0;top:0;height:14vh;background:linear-gradient(to bottom,var(--white),transparent);pointer-events:none;z-index:2;opacity:.9}
 
-@media(prefers-reduced-motion:reduce){*{animation:none!important;transition:none!important}.dim .w{opacity:1}.ab-c{opacity:1}.fport .frame,.post .im{clip-path:none}#contact{clip-path:none}.ico *{stroke-dashoffset:0!important}}
+@media(prefers-reduced-motion:reduce){*{animation:none!important;transition:none!important}.dim .w{opacity:1}.ab-c{opacity:1}.fport .frame,.post .im{clip-path:none}#contact{clip-path:none}.ico *{stroke-dashoffset:0!important}} */
